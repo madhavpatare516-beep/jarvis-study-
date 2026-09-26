@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis Study",
+  "description": "Smart student study schedule organizer, focus timer, and progress tracking app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
